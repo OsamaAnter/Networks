@@ -1,0 +1,19 @@
+C:/Users/dell/Desktop/Template/HTTPServer/bin/Debug/HTTPServer.exe
+C:/Users/dell/Desktop/Template/HTTPServer/bin/Debug/HTTPServer.pdb
+C:/Users/dell/Desktop/Template/HTTPServer/obj/x86/Debug/HTTPServer.exe
+C:/Users/dell/Desktop/Template/HTTPServer/obj/x86/Debug/HTTPServer.pdb
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.exe.config
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.exe
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.pdb
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.csproj.AssemblyReference.cache
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.csproj.SuggestedBindingRedirects.cache
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.csproj.CoreCompileInputs.cache
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.exe
+G:/My Academic Courses/3rd Level/1st Symister/Network/Project/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.pdb
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.exe.config
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.exe
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/bin/Debug/HTTPServer.pdb
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.csproj.AssemblyReference.cache
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.csproj.CoreCompileInputs.cache
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.exe
+/Users/Adham/Desktop/Networks Project Template/Template[2021-2022]/HTTPServer/obj/x86/Debug/HTTPServer.pdb
